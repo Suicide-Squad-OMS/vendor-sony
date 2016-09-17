@@ -176,7 +176,7 @@ LOCAL_SRC_FILES := vendor/firmware/fw_bcmdhd.bin
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_SUFFIX := .bin
 LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/vendor/firmware
+LOCAL_MODULE_PATH := $(TARGET_OUT_VENDOR)/firmware
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
@@ -186,6 +186,6 @@ LOCAL_SRC_FILES := vendor/firmware/fw_bcmdhd_apsta.bin
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_SUFFIX := .bin
 LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/vendor/firmware
+LOCAL_MODULE_PATH := $(TARGET_OUT_VENDOR)/firmware
 include $(BUILD_PREBUILT)
 endif

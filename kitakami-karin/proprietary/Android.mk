@@ -22,7 +22,7 @@ LOCAL_SRC_FILES := vendor/bin/pad_controller
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_SUFFIX := 
 LOCAL_MODULE_CLASS := ECECUTABLES
-LOCAL_MODULE_PATH := $(TARGET_OUT)/vendor/bin
+LOCAL_MODULE_PATH := $(TARGET_OUT_VENDOR)/bin
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
@@ -32,7 +32,7 @@ LOCAL_SRC_FILES := vendor/bin/touch_fusion
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_SUFFIX := 
 LOCAL_MODULE_CLASS := ECECUTABLES
-LOCAL_MODULE_PATH := $(TARGET_OUT)/vendor/bin
+LOCAL_MODULE_PATH := $(TARGET_OUT_VENDOR)/bin
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
@@ -42,7 +42,7 @@ LOCAL_SRC_FILES := vendor/etc/touch_fusion_panel_id_0x0000.cfg
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_SUFFIX := .cfg
 LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/vendor/etc
+LOCAL_MODULE_PATH := $(TARGET_OUT_VENDOR)/etc
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
@@ -52,7 +52,7 @@ LOCAL_SRC_FILES := vendor/etc/touch_fusion_panel_id_0x0700.cfg
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_SUFFIX := .cfg
 LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/vendor/etc
+LOCAL_MODULE_PATH := $(TARGET_OUT_VENDOR)/etc
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
@@ -62,7 +62,7 @@ LOCAL_SRC_FILES := vendor/etc/touch_fusion_panel_id_0x0701.cfg
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_SUFFIX := .cfg
 LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/vendor/etc
+LOCAL_MODULE_PATH := $(TARGET_OUT_VENDOR)/etc
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
@@ -72,7 +72,7 @@ LOCAL_SRC_FILES := vendor/etc/touch_fusion_panel_id_0x0702.cfg
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_SUFFIX := .cfg
 LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/vendor/etc
+LOCAL_MODULE_PATH := $(TARGET_OUT_VENDOR)/etc
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
@@ -82,7 +82,7 @@ LOCAL_SRC_FILES := vendor/etc/touch_fusion_panel_id_0x0704.cfg
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_SUFFIX := .cfg
 LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/vendor/etc
+LOCAL_MODULE_PATH := $(TARGET_OUT_VENDOR)/etc
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
@@ -92,7 +92,7 @@ LOCAL_SRC_FILES := vendor/etc/touch_fusion_panel_id_0x0705.cfg
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_SUFFIX := .cfg
 LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/vendor/etc
+LOCAL_MODULE_PATH := $(TARGET_OUT_VENDOR)/etc
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
@@ -102,7 +102,7 @@ LOCAL_SRC_FILES := vendor/etc/touch_fusion_panel_id_0x0706.cfg
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_SUFFIX := .cfg
 LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/vendor/etc
+LOCAL_MODULE_PATH := $(TARGET_OUT_VENDOR)/etc
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
@@ -112,7 +112,7 @@ LOCAL_SRC_FILES := vendor/etc/touch_fusion_panel_id_0x0708.cfg
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_SUFFIX := .cfg
 LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/vendor/etc
+LOCAL_MODULE_PATH := $(TARGET_OUT_VENDOR)/etc
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
@@ -122,7 +122,7 @@ LOCAL_SRC_FILES := vendor/etc/touch_fusion_panel_id_0x0709.cfg
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_SUFFIX := .cfg
 LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/vendor/etc
+LOCAL_MODULE_PATH := $(TARGET_OUT_VENDOR)/etc
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
@@ -132,7 +132,7 @@ LOCAL_SRC_FILES := vendor/etc/touch_fusion_panel_id_0x070A.cfg
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_SUFFIX := .cfg
 LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/vendor/etc
+LOCAL_MODULE_PATH := $(TARGET_OUT_VENDOR)/etc
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
@@ -142,7 +142,7 @@ LOCAL_SRC_FILES := vendor/etc/touch_fusion_panel_id_0x070C.cfg
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_SUFFIX := .cfg
 LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/vendor/etc
+LOCAL_MODULE_PATH := $(TARGET_OUT_VENDOR)/etc
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
@@ -152,7 +152,7 @@ LOCAL_SRC_FILES := vendor/etc/touch_fusion_panel_id_0x070D.cfg
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_SUFFIX := .cfg
 LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/vendor/etc
+LOCAL_MODULE_PATH := $(TARGET_OUT_VENDOR)/etc
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
@@ -162,7 +162,7 @@ LOCAL_SRC_FILES := vendor/etc/touch_fusion_panel_id_0x0710.cfg
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_SUFFIX := .cfg
 LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/vendor/etc
+LOCAL_MODULE_PATH := $(TARGET_OUT_VENDOR)/etc
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
@@ -172,7 +172,7 @@ LOCAL_SRC_FILES := vendor/etc/touch_fusion_panel_id_0x0717.cfg
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_SUFFIX := .cfg
 LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/vendor/etc
+LOCAL_MODULE_PATH := $(TARGET_OUT_VENDOR)/etc
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
@@ -182,7 +182,7 @@ LOCAL_SRC_FILES := vendor/etc/touch_fusion_panel_id_0x071B.cfg
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_SUFFIX := .cfg
 LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/vendor/etc
+LOCAL_MODULE_PATH := $(TARGET_OUT_VENDOR)/etc
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
@@ -192,7 +192,7 @@ LOCAL_SRC_FILES := vendor/etc/touch_fusion_panel_id_0x071F.cfg
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_SUFFIX := .cfg
 LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/vendor/etc
+LOCAL_MODULE_PATH := $(TARGET_OUT_VENDOR)/etc
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
@@ -203,7 +203,7 @@ LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_STEM := keymaster
 LOCAL_MODULE_SUFFIX := .b00
 LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/vendor/firmware/keymaster
+LOCAL_MODULE_PATH := $(TARGET_OUT_VENDOR)/firmware/keymaster
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
@@ -214,7 +214,7 @@ LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_STEM := keymaster
 LOCAL_MODULE_SUFFIX := .b01
 LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/vendor/firmware/keymaster
+LOCAL_MODULE_PATH := $(TARGET_OUT_VENDOR)/firmware/keymaster
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
@@ -225,7 +225,7 @@ LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_STEM := keymaster
 LOCAL_MODULE_SUFFIX := .b02
 LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/vendor/firmware/keymaster
+LOCAL_MODULE_PATH := $(TARGET_OUT_VENDOR)/firmware/keymaster
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
@@ -236,7 +236,7 @@ LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_STEM := keymaster
 LOCAL_MODULE_SUFFIX := .b03
 LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/vendor/firmware/keymaster
+LOCAL_MODULE_PATH := $(TARGET_OUT_VENDOR)/firmware/keymaster
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
@@ -247,7 +247,7 @@ LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_STEM := keymaster
 LOCAL_MODULE_SUFFIX := .mdt
 LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/vendor/firmware/keymaster
+LOCAL_MODULE_PATH := $(TARGET_OUT_VENDOR)/firmware/keymaster
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
@@ -257,6 +257,6 @@ LOCAL_SRC_FILES := vendor/firmware/max11945.bin
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_SUFFIX := .bin
 LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/vendor/firmware
+LOCAL_MODULE_PATH := $(TARGET_OUT_VENDOR)/firmware
 include $(BUILD_PREBUILT)
 endif
